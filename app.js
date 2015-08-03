@@ -4,7 +4,7 @@ var questions = [
 ];
 
 // This question will come later !
-var additionalQuestion = new Question("Who is the first president of the United States?", ["George Washington", "Thomas Jefferson"], "George Washington")
+var additionalQuestion = new Question("Who was the first president of the United States?", ["George Washington", "Thomas Jefferson"], "George Washington")
 
 //create Quiz
 var quiz = new Quiz(questions);
